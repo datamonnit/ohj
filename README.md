@@ -1,2 +1,3 @@
-# ohj
-Ohjelmoinnin teemat
+# Ohjelmoinnin teemat
+
+Täällä voidaan kehittää ohjelmointiopetuksen teemoja.
