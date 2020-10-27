@@ -1,11 +1,10 @@
 # TVT: OHJELMOINTI, 45 OSP
-
 https://eperusteet.opintopolku.fi/#/fi/esitys/6779583/reformi/tutkinnonosat/6810819
 
 ## Ammattitaitovaatimukset
 
 * __Opiskelija käyttää ohjelmistokehitysympäristöä__
-    *  käyttää ohjelmointieditoria tai kehitysympäristöä (1473)
+    * käyttää ohjelmointieditoria tai kehitysympäristöä (1473)
     * etsii ja korjaa virheitä ohjelmakoodista (1472)
     * testaa ohjelman toimintoja (1471)
 * __Opiskelija ohjelmoi__
