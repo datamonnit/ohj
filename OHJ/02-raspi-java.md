@@ -10,5 +10,6 @@
 - kirjoittaa ylläpidettävää ohjelmakoodia (1469)
 
 ## Projektit
+- Ohjelmoinnin perusteet Java:lla
 - Java-ohjelmointiympäristön asentaminen Raspberry Pi -tietokoneelle.
 - Ohjelmoinnin peruskäsitteet Java-ohejlmointikielellä
