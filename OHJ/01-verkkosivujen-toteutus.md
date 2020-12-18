@@ -12,4 +12,4 @@ Tässä teemassa syvennät osaamistasi HTML/CSS-tekniikoista ja osaat toteuttaa 
 - HTML/CSS -perusteet
 - Responsiiviset verkkosivut
 
-
+[Takaisin OHJ0 - Orientaatioon >>](00-ohj-orientaatio.md)

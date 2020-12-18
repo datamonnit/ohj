@@ -13,3 +13,6 @@
 - Ohjelmoinnin perusteet Java:lla
 - Java-ohjelmointiympäristön asentaminen Raspberry Pi -tietokoneelle.
 - Ohjelmoinnin peruskäsitteet Java-ohejlmointikielellä
+
+
+[Takaisin OHJ0 - Orientaatioon >>](00-ohj-orientaatio.md)

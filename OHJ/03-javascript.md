@@ -18,3 +18,5 @@ Tässä teemassa opit ohjelmoimaan JavaScript -kielellä.
 - NodeJS-ohejlmointi
 
 
+[Takaisin OHJ0 - Orientaatioon >>](00-ohj-orientaatio.md)
+

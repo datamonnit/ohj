@@ -15,3 +15,6 @@ Tässä teemassa opit toteuttamaan Web-sovelluksen palvelinpuolen skritptejä PH
 
 ## Materiaali
 - Ohjelmointirakenteet PHP-kielessä
+
+
+[Takaisin OHJ0 - Orientaatioon >>](00-ohj-orientaatio.md)
