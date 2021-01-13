@@ -20,15 +20,15 @@ https://eperusteet.opintopolku.fi/#/fi/esitys/6779583/reformi/tutkinnonosat/6810
 
 ## OHJ0 – Orientaatioteema 
 
-## [OHJ1 – Verkkosivujen toteutus ohjelmointieditorilla (HTML/CSS) >>](01-verkkosivujen-toteutus.md)
-- käyttää ohjelmointieditoria tai kehitysympäristöä (1473)
-
-## [OHJ2 – Raspi-ohjelmointia Javalla >>](02-raspi-java.md)
+## [OHJ1 – Ohjelmoinnin perusteet Javalla >>](01-java.md)
 - käyttää ohjelmointieditoria tai kehitysympäristöä (1473)
 - etsii ja korjaa virheitä ohjelmakoodista (1472)
 - testaa ohjelman toimintoja (1471)
 - käyttää rakenteista ohjelmointia toteutuksissa (1470)
 - kirjoittaa ylläpidettävää ohjelmakoodia (1469)
+
+## [OHJ2 – Verkkosivujen toteutus ohjelmointieditorilla (HTML/CSS) >>](02-verkkosivujen-toteutus.md)
+- käyttää ohjelmointieditoria tai kehitysympäristöä (1473)
 
 ## [OHJ3 – JavaScript -ohjelmointi >>](03-javascript.md)
 - käyttää ohjelmointieditoria tai kehitysympäristöä (1473)
