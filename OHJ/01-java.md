@@ -1,4 +1,4 @@
-# OHJ2 - Java-ohjelmointi RaspberryPi-ympäristössä
+# OHJ1 - Java-ohjelmointi RaspberryPi-ympäristössä
  
  Tässä teemassa opit ohjelmoimaan Java-ohjelmointikielellä. Opit asentamaan Javan Raspeberry OS -käyttöjärjestelmään ja toteuttamaan konsolipohjaisia ohjelmia Java-ohejlmointikielellä. 
 
